@@ -5,7 +5,7 @@ ShowToc: true
 
 ## Career
 
-### 2025/09 - Atualmente: 42rio
+### 2025/09 - Currently: 42rio
 
 - 2025/09 - Start of 42's Piscine
 
