@@ -1,3 +1,6 @@
 [submodule "themes/hugo-theme-nord"]
     path = themes/hugo-theme-nord
     url = https://github.com/youvann/hugo-theme-nord.git
+[submodule "themes/nord"]
+	path = themes/nord
+	url = https://github.com/youvann/hugo-theme-nord.git

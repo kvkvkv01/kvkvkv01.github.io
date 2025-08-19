@@ -1,38 +1,17 @@
 baseURL: https://kvkvkv01.github.io/
 languageCode: en-us
-title: kvkvkv01.github.io
-theme: PaperMod
+title: kvkvkv01
+theme: nord
 
 params:
-  profileMode:
-    enabled: true
-    title: kvkvkv01
-    subtitle: "A student at [42rio](https://42.rio/)."
-    imageUrl: /icon.jpg
-    buttons:
-      - name: Resume
-        url: /resume
-      - name: Works
-        url: /works
-
-  socialIcons:
-    - name: x
-      url: https://x.com/kvkvkv01
-    - name: github
-      url: https://github.com/kvkvkv01
-    - name: rss
-      url: https://kvkvkv01.hatenablog.com/
-
-  customCSS:
-    - css/custom.css
+  author: kvkvkv01
+  description: "A student at 42rio"
 
 menu:
   main:
-    - identifier: resume
-      name: Resume
+    - name: Resume
       url: /resume/
       weight: 10
-    - identifier: works
-      name: Works
+    - name: Works
       url: /works/
       weight: 20
